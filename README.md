@@ -16,8 +16,8 @@ Godot 4 has a terrain system built-in to its tilemap node. This system has some 
 To get started with `better-terrain`, follow these steps:
 
 1. Either:
-    * Clone or download the repo, and copy the `addons` folder into your Godot project.
-    * In Godot's asset library, search for `Better Terrain` and click download.
+	* Clone or download the repo, and copy the `addons` folder into your Godot project.
+	* In Godot's asset library, search for `Better Terrain` and click download.
 
 2. In `Project settings` make sure the plugin is enabled in the `Plugins` tab.
 3. Restart Godot.
